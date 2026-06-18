@@ -1,5 +1,3 @@
-# Neural-AI-Red-Team-Range
-A hands-on, HackTheBox-style training lab for red teaming AI systems.
 
 <p align="center">
   <img src="assets/banner.svg" alt="Neural Range — AI Red Team Training Lab" width="100%">
@@ -13,7 +11,7 @@ A hands-on, HackTheBox-style training lab for red teaming AI systems.
   <img src="https://img.shields.io/badge/MITRE-ATLAS-b48cff" alt="MITRE ATLAS">
 </p>
 
-# Neural Range
+# Neural AI Red Team Range
 
 A hands-on, HackTheBox-style training lab for red teaming AI systems. You attack simulated-but-realistic targets in the browser, capture flags, generate a commercial-grade report from what you found, and prepare for the HTB Certified Offensive AI Expert (COAE). It runs as a single static site — no backend, no build step, no dependencies.
 
