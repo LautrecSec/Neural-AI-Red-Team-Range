@@ -13,7 +13,7 @@
 
 # Neural AI Red Team Range
 
-A hands-on, HackTheBox-style training lab for red teaming AI systems. You attack simulated-but-realistic targets in the browser, capture flags, generate a commercial-grade report from what you found, and prepare for the HTB Certified Offensive AI Expert (COAE). It runs as a single static site — no backend, no build step, no dependencies.
+A hands-on, training lab for red teaming AI systems. You attack simulated-but-realistic targets in the browser, capture flags, generate a commercial-grade report from what you found, and prepare for the HTB Certified Offensive AI Expert (COAE). It runs as a single static site — no backend, no build step, no dependencies.
 
 Coverage spans LLM/GenAI offensive testing and adversarial ML, mapped to the **OWASP Top 10 for LLM Applications (2025)** and **MITRE ATLAS**.
 
